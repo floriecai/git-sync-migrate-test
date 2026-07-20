@@ -27,7 +27,6 @@
       }
     ],
     "cursorSync": "Off",
-    "description": "",
     "editable": true,
     "elements": {
       "panel-1": {
@@ -129,7 +128,7 @@
                   "enableFacetedFilter": false,
                   "overflow": "ellipsis",
                   "placement": "bottom",
-                  "showLegend": true
+                  "showLegend": false
                 },
                 "tooltip": {
                   "hideZeros": false,
