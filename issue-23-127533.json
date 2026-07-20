@@ -129,7 +129,7 @@
                   "enableFacetedFilter": false,
                   "overflow": "ellipsis",
                   "placement": "bottom",
-                  "showLegend": false
+                  "showLegend": true
                 },
                 "tooltip": {
                   "hideZeros": false,
@@ -259,10 +259,12 @@
           "allowCustomValue": false,
           "current": {
             "text": [
-              "Staging"
+              "Staging",
+              "Development"
             ],
             "value": [
-              "2"
+              "2",
+              "1"
             ]
           },
           "hide": "dontHide",
