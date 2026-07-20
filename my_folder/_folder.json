@@ -1,0 +1,10 @@
+{
+  "kind": "Folder",
+  "apiVersion": "folder.grafana.app/v1",
+  "metadata": {
+    "name": "dfsp0tkurcmioc"
+  },
+  "spec": {
+    "title": "my_folder"
+  }
+}
