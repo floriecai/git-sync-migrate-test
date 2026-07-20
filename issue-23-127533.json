@@ -128,7 +128,7 @@
                   "enableFacetedFilter": false,
                   "overflow": "ellipsis",
                   "placement": "bottom",
-                  "showLegend": false
+                  "showLegend": true
                 },
                 "tooltip": {
                   "hideZeros": false,
@@ -259,11 +259,13 @@
           "current": {
             "text": [
               "Staging",
-              "Development"
+              "Development",
+              "Production"
             ],
             "value": [
               "2",
-              "1"
+              "1",
+              "3"
             ]
           },
           "hide": "dontHide",
