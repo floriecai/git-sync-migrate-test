@@ -71,6 +71,7 @@
                     "axisBorderShow": false,
                     "axisCenteredZero": false,
                     "axisColorMode": "text",
+                    "axisGridShow": false,
                     "axisLabel": "",
                     "axisPlacement": "auto",
                     "barAlignment": 0,
