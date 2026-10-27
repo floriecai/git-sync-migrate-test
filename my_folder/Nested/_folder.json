@@ -1,0 +1,10 @@
+{
+  "kind": "Folder",
+  "apiVersion": "folder.grafana.app/v1",
+  "metadata": {
+    "name": "bg2isjtsry39ca"
+  },
+  "spec": {
+    "title": "Nested"
+  }
+}
