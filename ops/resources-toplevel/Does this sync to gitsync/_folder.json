@@ -1,0 +1,10 @@
+{
+  "kind": "Folder",
+  "apiVersion": "folder.grafana.app/v1",
+  "metadata": {
+    "name": "ag2jvodcqkxdse"
+  },
+  "spec": {
+    "title": "Does this sync to gitsync"
+  }
+}
