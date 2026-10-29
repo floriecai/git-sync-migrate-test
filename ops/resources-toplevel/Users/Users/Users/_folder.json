@@ -1,0 +1,10 @@
+{
+  "kind": "Folder",
+  "apiVersion": "folder.grafana.app/v1",
+  "metadata": {
+    "name": "ag2kda7m9bbi8b"
+  },
+  "spec": {
+    "title": "Users"
+  }
+}
