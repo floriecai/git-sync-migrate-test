@@ -1,0 +1,25 @@
+{
+  "apiVersion": "playlist.grafana.app/v1",
+  "kind": "Playlist",
+  "metadata": {
+    "name": "ag2payexrturkc"
+  },
+  "spec": {
+    "interval": "30s",
+    "items": [
+      {
+        "type": "dashboard_by_uid",
+        "value": "alice-1"
+      },
+      {
+        "type": "dashboard_by_uid",
+        "value": "alice-2"
+      },
+      {
+        "type": "dashboard_by_uid",
+        "value": "alice-3"
+      }
+    ],
+    "title": "Team alice tour"
+  }
+}
