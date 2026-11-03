@@ -1,0 +1,21 @@
+{
+  "apiVersion": "playlist.grafana.app/v1",
+  "kind": "Playlist",
+  "metadata": {
+    "name": "cg2payert2l1cb"
+  },
+  "spec": {
+    "interval": "1m",
+    "items": [
+      {
+        "type": "dashboard_by_uid",
+        "value": "edediimbjhdz4b"
+      },
+      {
+        "type": "dashboard_by_uid",
+        "value": "adbfpbv"
+      }
+    ],
+    "title": "Ops wall"
+  }
+}
